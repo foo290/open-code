@@ -18,7 +18,7 @@ For root node, The range would be -ve infinity to +ve infinity.
 For other nodes in the tree, we can define upper and lower bound based on their root’s value.
 Example:
 
-![6efc256aad5e9707558a0af2ec66f06d.png](/open-code/_resources/1cab4ccfc41a4ddaa79f19e25936a7ed.png)
+![6efc256aad5e9707558a0af2ec66f06d.png](https://github.com/foo290/open-code/blob/gh-pages/_resources/02b3aa6ca5d149d8a734f6a693695db7.png)
 
 In the above representation, the root node can have values between -ve infinity and +ve infinity, but as we go down the tree, these ranges are resets according to the values of their respective nodes.
 
