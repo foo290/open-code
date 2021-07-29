@@ -1,6 +1,6 @@
 layout: page
 title: "Technical Interview Practice"
-permalink: /nav/posts/technical_interview
+permalink: /nav/posts/technical_interview#clone-a-doubly-linked-list-with-next-and-random-pointer
 
 github:
   is_project_page: false
