@@ -2,8 +2,6 @@ layout: page
 title: "Microsoft Interview Questions"
 permalink: /nav/Questions/
 
-
-title: Open-Code
 permalink: /:title
 
 theme: jekyll-theme-cayman
