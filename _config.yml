@@ -2,4 +2,8 @@ layout: page
 title: "ques"
 permalink: /nav/Questions/
 
+
+title: Open-Code
+permalink: /:title
+
 theme: jekyll-theme-cayman
