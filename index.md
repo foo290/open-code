@@ -4,6 +4,6 @@ Hi! I am `Nitin` and this is just a collection of my work or tech stuff I do or 
 
 ### Code Practice:
 
-* [Microsoft interview questions]()
-* [Amazon interview questions]()
-* [Practice questions]()
+* [Microsoft interview questions](https://github.com/foo290/open-code/blob/gh-pages/nav/Questions.md)
+* [Amazon interview questions](https://github.com/foo290/open-code/blob/gh-pages/nav/Questions.md)
+* [Practice questions](https://github.com/foo290/open-code/blob/gh-pages/nav/Questions.md)
