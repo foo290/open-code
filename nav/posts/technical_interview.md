@@ -1,8 +1,6 @@
-Technical Interview
-
 <div align='center'>
 
-# Technical Interview Questions Practice
+<h2>Technical Interview Questions Practice</h2>
 
 </div>
 
