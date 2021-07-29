@@ -18,7 +18,7 @@ For root node, The range would be -ve infinity to +ve infinity.
 For other nodes in the tree, we can define upper and lower bound based on their root’s value.
 Example:
 
-![6efc256aad5e9707558a0af2ec66f06d.png](/open-code/blob/gh-pages/_resources/1cab4ccfc41a4ddaa79f19e25936a7ed.png)
+![6efc256aad5e9707558a0af2ec66f06d.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/1cab4ccfc41a4ddaa79f19e25936a7ed.png)
 
 In the above representation, the root node can have values between -ve infinity and +ve infinity, but as we go down the tree, these ranges are resets according to the values of their respective nodes.
 
@@ -67,20 +67,20 @@ bool isBinary(Node *root) {
 ## Clone a doubly linked list with next and random pointer:
 
 - Given linked list
-    ![957313f91edf3d41ba490fb3142ca558.png](/open-code/blob/gh-pages/_resources/698e5ecfcaa4433994b6dce86591a572.png)
+    ![957313f91edf3d41ba490fb3142ca558.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/698e5ecfcaa4433994b6dce86591a572.png)
     
 - create new node while iterating through the original linked list for each original node. Connect the next of original node to newly created node and connect the newly created node to next of the original node.
-    ![bf40e062bd8c735c011f56e387e37369.png](/open-code/blob/gh-pages/_resources/4e93ce5c88fe4eca9efd6729691ff17c.png)
+    ![bf40e062bd8c735c011f56e387e37369.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/4e93ce5c88fe4eca9efd6729691ff17c.png)
     
 - Now to connect the random pointers, iterate through the list and connect the random pointer of new node to next of the random node of original node.
-    ![44b896f961fddffd242f9ea026a4d83a.png](/open-code/blob/gh-pages/_resources/3a85c519182e49ed8a7138fd88482e87.png)
+    ![44b896f961fddffd242f9ea026a4d83a.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/3a85c519182e49ed8a7138fd88482e87.png)
     
 - At last reset the original links of original list and newly created list. To do this run a while loop iterating through the list and:
     
     - point the next of original to next of next of original.
     - point the next of copy to next of next of copy
 - This will be final result:
-    ![9c054c9cdd914e50c50256ab1a94aa01.png](/open-code/blob/gh-pages/_resources/b80ea2f512d242499cd112b419beac9c.png)
+    ![9c054c9cdd914e50c50256ab1a94aa01.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/b80ea2f512d242499cd112b419beac9c.png)
     
 
 C++ code:
@@ -122,7 +122,7 @@ Node *cloneLinkedList() {
 
 For a given root node of a binary tee, connect the nodes at same level like this :
 
-![55c52476052be3f4651684136cecccfa.png](/open-code/blob/gh-pages/_resources/94cd24d596dc4d07a5c3d65bb5c140a5.png)
+![55c52476052be3f4651684136cecccfa.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/94cd24d596dc4d07a5c3d65bb5c140a5.png)
 
 ### Method 1: Using Preorder traversal
 
@@ -213,7 +213,7 @@ getNextRight(node):
 > Height of a tree is defined as the number of edges in longest path from root to leaf node.
 > Height of a node is defined as the number of edges in longest path from that node to deepest leaf node.
 
-![6993a385f218e9bad3d8d4035756e0b7.png](/open-code/blob/gh-pages/_resources/02b3aa6ca5d149d8a734f6a693695db7.png)
+![6993a385f218e9bad3d8d4035756e0b7.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/02b3aa6ca5d149d8a734f6a693695db7.png)
 
 Algorithm
 
@@ -235,7 +235,7 @@ find_height(root)
 
 **Note that** we are returning `-1` from the base case, this is because we are doing a +1 in the function where heigh is `max(height of left subtree, height of right subtree) + 1`.
 
-![d4dd868933f16f223d9dce4a346b2545.png](/open-code/blob/gh-pages/_resources/ae4034294a5f471bb5ace2bbcfd8ea6b.png)
+![d4dd868933f16f223d9dce4a346b2545.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/ae4034294a5f471bb5ace2bbcfd8ea6b.png)
 
 If we simply return 0 from the base case the the height of the leaf node will be 1, which is incorrect.
 
@@ -462,7 +462,7 @@ void removeCycle(Node* head){
 
 **1 Using XOR:**
 
-![26fee178aad4db1a1557571333f16392.png](/open-code/blob/gh-pages/_resources/0c9e2507626b4ad2bfcde54f9bd7dc06.png)
+![26fee178aad4db1a1557571333f16392.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/0c9e2507626b4ad2bfcde54f9bd7dc06.png)
 
 > This method will take O(logn) space.
 
@@ -528,7 +528,7 @@ pair<int, int> findMissingAndRepeating(int arr[], int size){
 
 Lowest common ancestor is the node from which you can reach both given nodes, for exapmle in pic below, LCA of 7 and 6 is 3.
 
-![6c28235c8e0ebbf530f730c4adfe97de.png](/open-code/blob/gh-pages/_resources/7ffa94b4731f464f811c7dcb4e8ea8ae.png)
+![6c28235c8e0ebbf530f730c4adfe97de.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/7ffa94b4731f464f811c7dcb4e8ea8ae.png)
 
 The idea is to analyse the path while traversing from root to the given nodes, the common node in path of both node will be least common ancestor.
 
