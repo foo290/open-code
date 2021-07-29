@@ -1,6 +1,7 @@
 layout: page
-title: "Microsoft Interview Questions"
-permalink: /nav/Questions/
+title: "Technical Interview Practice"
+permalink: /nav/posts/technical_interview
+
 
 
 theme: jekyll-theme-cayman
