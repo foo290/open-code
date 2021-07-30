@@ -1,7 +1,8 @@
 layout: page
 title: "Technical Interview Practice"
 permalink: /nav/posts/technical_interview
-
-
-
+github:
+  is_project_page: false
+  
 theme: jekyll-theme-cayman
+
