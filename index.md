@@ -13,14 +13,11 @@ Coming soon...
 <br/>
 
 * * *
-<div align='center'>
 
 **Last Updated:** 30/07/2021 21:44
 
-</div>
 
-<div align='left'>
+
 
 **Maintained By:** [Nitin Sharma](https://github.com/foo290)
 
-</div>
