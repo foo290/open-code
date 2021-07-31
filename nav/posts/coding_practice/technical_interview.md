@@ -1,4 +1,6 @@
-Questions
+---
+title: Practice Questions
+---
 
 # Questions
 

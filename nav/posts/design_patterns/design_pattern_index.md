@@ -1,4 +1,6 @@
-Design Patterns
+---
+title: Design Patterns
+---
 
 <div align='center'>
 <h1> Design Patterns in Python</h1>
