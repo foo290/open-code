@@ -9,7 +9,7 @@ Hi! I am `Nitin` and this is just a collection of my work or tech stuff I do or 
 ### Software Engineering:
 
 - [Software Design Patterns](/open-code/nav/posts/design_patterns/design_pattern_index)
-- [Implementing Software Designs Patterns in Python](/open-code/nav/posts/sw_design_patterns_in_python)
+- [Implementing Software Designs Patterns in Python](https://github.com/foo290/software-design-patterns)
 
 * * *
 
