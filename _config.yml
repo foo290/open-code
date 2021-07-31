@@ -1,6 +1,16 @@
 layout: page
 title: "Technical Interview Practice"
-permalink: /nav/posts/technical_interview
+permalink: /nav/posts/coding_practice/technical_interview
+
+layout: page
+title: "Software Design Patterns"
+permalink: /nav/posts/design_patterns/design_pattern_index
+
+layout: page
+title: "Abstract Factory Pattren"
+permalink: /nav/posts/design_patterns/abstract_factory
+
+
 github:
   is_project_page: false
   
