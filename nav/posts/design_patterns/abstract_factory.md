@@ -10,3 +10,5 @@ These classes are then provided as options to factory class to create objects at
 
 ![71600957ecbf4409af18363f36301db2.png](https://raw.githubusercontent.com/foo290/open-code/gh-pages/_resources/449f0f5c641340e2b18efbd91da852f0.png)
 
+{% gist da3f992b45798c0b09b3c1a42a472eb0 %}
+
