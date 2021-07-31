@@ -33,12 +33,12 @@ Creational design pattern deals with object and class creation. It can be furthe
 
 Crearional  patterns includes:
 
-* [Factory Method]()
+* Factory Method
 * [Abstract Factory](/open-code/nav/posts/design_patterns/abstract_factory)
-* [Builder Method]()
-* [Singleton Pattern]()
-* [Object Pool]()
-* [Prototype Pattern]()
+* Builder Method
+* Singleton Pattern
+* Object Pool
+* Prototype Pattern
 
 <div id='structural_dp'>
 
@@ -51,13 +51,13 @@ Structural object-patterns define ways to compose objects to obtain new function
 
 Structural patterns includes:
 
-* [Adapter]()
-* [Bridge]()
-* [Composit]()
-* [Private class data]()
-* [Proxy]()
-* [Decorator]()
-* [Facade]()
+* Adapter
+* Bridge
+* Composit
+* Private class data
+* Proxy
+* Decorator
+* Facade
 
 <div id='behavioral_dp'>
 
@@ -67,17 +67,17 @@ Structural patterns includes:
 
 These design patterns are all about Class's objects communication. Behavioral patterns are those patterns that are most specifically concerned with communication between objects.
 
-* [Chain of responsibility]()
-* [Command]()
-* [Interpreter]()
-* [Iterator]()
-* [Mediator]()
-* [Memento]()
-* [Null Object]()
-* [Observer]()
-* [State]()
-* [Strategy]()
-* [Template method]()
-* [Visitor]()
+* Chain of responsibility
+* Command
+* Interpreter
+* Iterator
+* Mediator
+* Memento
+* Null Object
+* Observer
+* State
+* Strategy
+* Template method
+* Visitor
 
 
